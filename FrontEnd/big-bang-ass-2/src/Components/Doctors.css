@@ -1,0 +1,24 @@
+.doctors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+body {
+    background: #ecebf122;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .pros{
+    background-image: url("../Assets/v870-tang-36.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    height: 140vh;
+    width:100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }

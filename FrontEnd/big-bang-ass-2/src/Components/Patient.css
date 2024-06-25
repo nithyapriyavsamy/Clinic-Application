@@ -1,0 +1,11 @@
+.patientcard{
+    width: 300px;
+    margin: 10px;
+    background-color: rgba(26, 56, 227, 0.03);
+    color:rgb(40, 19, 198);
+    text-align: center;
+}
+.name{
+    align-items: center;
+    text-align: center;
+}
